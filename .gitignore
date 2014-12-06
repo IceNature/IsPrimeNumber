@@ -1,0 +1,11 @@
+*.sdf
+*.suo
+
+
+/src/Debug
+/src/Release
+/src/x64
+/src/IsPrimeNumber/Debug
+/src/IsPrimeNumber/Release
+/src/IsPrimeNumber/x64
+/bin/TempBuild
